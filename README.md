@@ -3,7 +3,6 @@
 # Fathimath Sheba C
 
 **Frontend Developer**
-
 [shebacee.dev@gmail.com](mailto:shebacee.dev@gmail.com) • [LinkedIn](http://www.linkedin.com/in/fathimath-sheba-c)
 
 </div>
@@ -67,8 +66,8 @@ Kannur University, Kerala • 2022-2025 • CGPA: 7.4
 
 <div align="center">
 
-*trying to be better everyday. love to build stuff.*
+*trying to be better everyday*
 
-![Profile Views](https://komarev.com/ghpvc/?username=shebacee&color=blueviolet&style=flat)
+/![Profile Views](https://komarev.com/ghpvc/?username=shebacee&color=blueviolet&style=flat)/
 
 </div>
