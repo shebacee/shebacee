@@ -53,22 +53,9 @@ Kannur University, Kerala • 2022-2025 • CGPA: 7.4
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shebacee&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shebacee&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
 <div align="center">
 
 *trying to be better everyday*
 
-/![Profile Views](https://komarev.com/ghpvc/?username=shebacee&color=blueviolet&style=flat)/
 
 </div>
